@@ -1,0 +1,23 @@
+body{
+    background-color: #E2DFDF;
+}
+
+h1{
+    font-family: "Lucida Handwriting",Arial, Helvetica, sans-serif;
+    color: #994343;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #223127;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+h2{
+    color: #44601A;
+}
